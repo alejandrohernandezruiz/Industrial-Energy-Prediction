@@ -518,18 +518,12 @@ that its main objective remains clear.
 
 ## Final Thoughts
 
-This project is a small step, but an important one for me.
+This project is a small step, but it honestly means a lot to me. 
 
-As an Industrial Engineering student, I am increasingly interested in
-the intersection between engineering, mathematics, programming and data
-analysis. Building this project from the ground up has been a good way
-to connect those areas instead of treating them as completely separate
-subjects.
+As an industrial engineering student, I really wanted to see how math, coding, and data science work together. 
+Building this from scratch helped me connect the dots, instead of just seeing them as separate school subjects.
 
-It is also my first project that I consider large enough to publish and
-share. There is certainly room for improvement, but that is part of the
-point. I wanted to build something understandable, make the mathematics
-visible, and learn how a complete Python project is organised from data
-generation all the way to a final prediction.
+This is the first big project I feel ready to share. It is not perfect, but thats the point! 
+I wanted to make something clean, show the math clearly, and learn how a Python project goes from raw data to a real prediction. 
 
-This repository represents that first step.
+This repo is just my first step. 🚀
