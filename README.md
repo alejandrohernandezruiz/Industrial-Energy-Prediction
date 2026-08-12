@@ -426,7 +426,7 @@ No Machine Learning framework is required.
 First, clone the repository:
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/Industrial-Energy-Prediction.git
+git clone https://github.com/alejandrohernandezruiz/Industrial-Energy-Prediction.git
 cd Industrial-Energy-Prediction
 ```
 
