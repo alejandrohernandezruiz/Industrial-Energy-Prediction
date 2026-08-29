@@ -1,4 +1,4 @@
-# Industrial Energy Consumption Prediction: Multiple Linear Regression from Scratch
+# Industrial Energy Consumption Prediction: Multiple Linear Regression from Scratch 📈
 
 ## Overview
 
@@ -494,27 +494,7 @@ understanding what happens underneath is extremely valuable.
 
 ## Limitations and Possible Improvements
 
-This project is intentionally educational, so it has several
-limitations.
-
-The dataset is synthetic rather than collected from a real industrial
-plant. The relationship between the variables and energy consumption is
-therefore controlled by the way the data is generated.
-
-The regression model also assumes a linear relationship between the
-input variables and the target. Real industrial systems can be
-considerably more complex.
-
-The Normal Equation is implemented explicitly with a matrix inverse
-because demonstrating the equation is one of the goals of the project.
-For larger or more numerically demanding problems, other approaches
-would generally be preferable.
-
-There are many possible directions for future projects, such as working
-with real industrial datasets, adding statistical validation, comparing
-different regression models or studying more advanced numerical methods.
-However, I have deliberately kept those topics outside this project so
-that its main objective remains clear.
+This project is strictly educational and has deliberate limitations to maintain a clear focus. It uses a synthetic dataset and assumes a simple linear relationship, explicitly implementing the Normal Equation via matrix inversion despite it not being the most efficient method for complex problems. You can consult the original project for more details.
 
 ## Final Thoughts
 
